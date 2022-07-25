@@ -1,1 +1,1 @@
-# primitivetheme
+# Primitive Theme
